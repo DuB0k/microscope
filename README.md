@@ -37,7 +37,7 @@ Files in /lib are loaded before anything else.
 Any main.* file is loaded after everything else.
 Your static assets (fonts, images, etc.) go in the /public directory.
 
-###Added some css
+###Add some css
 CSS automatically gets loaded and minified by Meteor, so unlike other static assets it goes into /client, not /public.
 
 ###Interact with mongodb on the server side
