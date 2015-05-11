@@ -40,5 +40,5 @@ Your static assets (fonts, images, etc.) go in the /public directory.
 ###Added some css
 CSS automatically gets loaded and minified by Meteor, so unlike other static assets it goes into /client, not /public.
 
-###Interact with mongodb
+###Interact with mongodb on the server side
 $ meteor mongo
